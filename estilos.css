@@ -19,7 +19,7 @@ li {
 
 .menu {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-end;
 	align-items: center;
 }
 
@@ -53,6 +53,7 @@ header {
 	background: url(fondo.jpg);
 	height: 100vh;
 	background-size: cover;
+	background-position: center;
 }
 
 .contenedor {
