@@ -23,6 +23,11 @@ li {
 	align-items: center;
 }
 
+.menu a {
+	text-decoration: none;
+	background: none;
+	color: black;
+}
 .lista {
 	display: flex;
 }
@@ -185,13 +190,13 @@ span {
 	padding: 0px 20px 20px 20px;
 }
 #que-esperas {
-	background: linear-gradient(rgba(84, 93, 220, 0.94), rgba(96, 171, 245, 0.9));
+	background: linear-gradient(rgba(199, 199, 199, 0.94), rgba(131, 130, 130, 0.9));
 	text-align: center;
 	padding: 50px 0 50px 0;
 }
 #que-esperas h3 {
 	font-size: 23px;
-	color: #fff;
+	color: black;
 	margin-bottom: 40px;
 }
 #que-esperas a {
